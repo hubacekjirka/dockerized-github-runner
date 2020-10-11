@@ -50,7 +50,7 @@ docker run -d -v /var/run/docker.sock:/var/run/docker.sock --env-file .env_githu
 ### Result
 If everything worked well, one should see the runner in the runner list:
 
-<img src="https://github.com/hubacekjirka/dockerized-github-runner/blob/master/result.jpg?raw=true" width="50%" height="50%"/>
+<img src="https://github.com/hubacekjirka/dockerized-github-runner/blob/main/result.jpg?raw=true" width="50%" height="50%"/>
 
 
 ## Author
