@@ -71,7 +71,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [jiri hubacek](https://github.com/hubacekjirka).<br />
+Copyright © 2020 [jiri hubacek](https://github.com/hubacekjirka).<br />
 This project is [MIT](https://github.com/hubacekjirka/dockerized-github-runner/blob/master/LICENSE) licensed.
 
 ***
